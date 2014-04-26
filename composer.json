@@ -25,6 +25,9 @@
         "lw/typo3cms-installers": "*",
         "netresearch/composer-installers": "*"
     },
+    "require": {
+	"composer-plugin-api": "1.0.0"
+    },
     "require-dev": {
         "composer/composer": "1.*"
     },
